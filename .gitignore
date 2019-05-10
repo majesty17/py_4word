@@ -88,4 +88,5 @@ env/
 venv/
 ENV/
 env.bak/
+.idea/
 
